@@ -1,9 +1,4 @@
-"""
-Nir Agiv 208150607
-Tamir Ben Eden 322384603
-Idan Yaakov 207468554
-Aviarm Ben Ishai 208186171
-"""
+
 import numpy as np
 
 
